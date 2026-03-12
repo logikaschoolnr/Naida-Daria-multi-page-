@@ -1,0 +1,69 @@
+a{
+    text-decoration: none ;
+  color: black; 
+ background-color: #613528;
+ padding: 10px;
+}
+a{
+   font-family:"Brush Script Std" ;
+font-size: 25px;
+ 
+}
+div{
+   display: flex;
+   justify-content:space-around;
+   
+}
+h2{
+   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBCm1KQA7gUllfHsMDNjA1XAtnpmMB8qW6ig&s");
+  color: white;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 90vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.hhh2{
+   background-image: url("https://travelroom.lviv.ua/wp-content/uploads/2018/03/R_1-1024x576.jpg");
+   color: white;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+p{
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+   font-family:"Brush Script Std" ;
+   background-color: #613528 ;
+   margin: 10px;
+   padding: 10px;
+}
+body{
+   background-color: #4D271E;
+}
+.f{
+   margin: 50px;
+}
+.g{
+  
+   flex-wrap: wrap;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+.c4{
+    color: white;
+    text-align: center;
+    flex-wrap: wrap;
+}
+@media(max-width:600px){}
+    
