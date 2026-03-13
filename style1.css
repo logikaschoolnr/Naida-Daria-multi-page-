@@ -12,6 +12,7 @@ font-size: 25px;
 .hhh2{
    background-image: url("https://travelroom.lviv.ua/wp-content/uploads/2018/03/R_1-1024x576.jpg");
    color: white;
+    height: 90vh;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -69,3 +70,4 @@ h1{
 @media(max-width:600px){}
 
     
+
